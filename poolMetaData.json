@@ -1,6 +1,1 @@
-{
-"name": "rotapoolBNB",
-"description": "Cardano node for rotapoolBNB",
-"ticker": "rot",
-"homepage": "https://flazio.rotapool.com"
-}
+"name": "rotapoolBNB","description": "Cardano node for rotapoolBNB","ticker": "rot","homepage": "https://flazio.rotapool.com"}
